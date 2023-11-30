@@ -1,5 +1,4 @@
-#Este script es básicamente el compartido luego de la clase plenaria. Fue con el que obtuve mejor score a pesar de
-#haber hecho otros intentos de OB + semillerío. Respecto al original se cambiaron solo el dataset a utilizar, las semillas, los meses de entrenamiento y el mes a predecir
+#Este script es básicamente el compartido luego de la clase plenaria. Se hicieron otros intentos con OB+ semillerío, pero con este script se obtuvo mejores resultados. Respecto al original se cambiaron solo el dataset a utilizar, las semillas, los meses de entrenamiento y el mes a predecir
 
 #limpio la memoria
 rm( list= ls(all.names= TRUE) )  #remove all objects
