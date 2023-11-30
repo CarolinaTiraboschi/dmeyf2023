@@ -1,4 +1,5 @@
 #Este script es básicamente el compartido luego de la clase plenaria. Se hicieron otros intentos con OB+ semillerío, pero con este script se obtuvo mejores resultados. Respecto al original se cambiaron solo el dataset a utilizar, las semillas, los meses de entrenamiento y el mes a predecir
+#El resultado entregado en kaggle corresponde a GR0008
 
 #limpio la memoria
 rm( list= ls(all.names= TRUE) )  #remove all objects
