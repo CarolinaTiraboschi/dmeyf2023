@@ -1,4 +1,6 @@
-#Este script es básicamente el compartido luego de la clase plenaria. Se hicieron otros intentos con OB+ semillerío, pero con este script se obtuvo mejores resultados. Respecto al original se cambiaron solo el dataset a utilizar, las semillas, los meses de entrenamiento y el mes a predecir
+#Este script es básicamente el compartido luego de la clase plenaria.
+# Se hicieron otros intentos con OB+ semillerío, pero con este script se obtuvo mejores resultados. Es posible que haya tenido que ver con el dataset elegido (en mis anteriores intentos no reemplacé los datos de meses catástrofe con NA y utilicé otros meses de entrenamiento, aunque sí usé lags y delta lags (los mismos y más). 
+#Respecto al original se cambiaron solo el dataset a utilizar, las semillas, los meses de entrenamiento y el mes a predecir
 #El resultado entregado en kaggle corresponde a GR0008
 
 #limpio la memoria
